@@ -22,8 +22,6 @@ Os dados brutos foram extraídos via **InfoDengue (Fiocruz/FGV)**, abrangendo:
 
 Durante o desenvolvimento, identificamos que variáveis absolutas de incidência hospitalar causavam *overfitting* geográfico. Para resolver isso, pivotamos para um modelo **Agnóstico de Região**.
 
-> **Insight de Sênior:** Ao focar 100% em variáveis climáticas, sacrificamos uma pequena margem de acurácia local para ganhar robustez nacional.
-
 ---
 
 ## 📊 Análise de Performance e Gráficos (2025)
